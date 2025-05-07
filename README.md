@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is aleksandre
 #### frontend developer
 ![Aleksandre's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aleksandre-jachvadze&theme=react-dark&area=true)
+![Aleksandre's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aleksandre-jachvadze&theme=react-dark&area=true)
 
 
 
