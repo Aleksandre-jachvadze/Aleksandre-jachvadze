@@ -1,9 +1,8 @@
 Hi there! I'm Aleksandre 👋
 Frontend Developer from Georgia
 React | JS | CSS | HTML | Tailwind lover
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C3FF&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Aleksandre+%F0%9F%91%8B;Frontend+Developer+from+Georgia;React+%7C+JS+%7C+CSS+%7C+HTML+%7C+Tailwind+lover)](https://github.com/Aleksandre-jachvadze)
 
-![Aleksandre's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aleksandre-jachvadze&theme=react-dark&area=true)
-![Snake animation](https://github.com/Aleksandre-jachvadze/Aleksandre-jachvadze/blob/output/github-contribution-grid-snake.svg)
 
 💻 Frontend Developer | 🌐 React & JavaScript Enthusiast | 
 
