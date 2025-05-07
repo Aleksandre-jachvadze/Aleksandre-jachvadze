@@ -1,5 +1,5 @@
-Hi there! I'm Aleksandre 👋  
-Frontend Developer from Georgia  
+Hi there! I'm Aleksandre 👋
+Frontend Developer from Georgia
 React | JS | CSS | HTML | Tailwind lover
 
 ![Aleksandre's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aleksandre-jachvadze&theme=react-dark&area=true)
