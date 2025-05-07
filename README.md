@@ -3,7 +3,8 @@ Frontend Developer from Georgia
 React | JS | CSS | HTML | Tailwind lover
 
 ![Aleksandre's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aleksandre-jachvadze&theme=react-dark&area=true)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?
+![Snake animation](https://github.com/Aleksandre-jachvadze/Aleksandre-jachvadze/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
