@@ -44,9 +44,16 @@ Personal projects that combine powerful backends with clean, modern frontends.
 
 ---
 
-### 📫 Connect with me:
-)
+### 📄 My CV
 
-### ⚡ Fun Fact:
-If it can be automated — I’ll probably automate it 😄
+Want to know more about my background and skills?  
+[📄 View My CV](https://aleksandre-portfolio.com/my_cv.pdf)
+
+---
+
+### 📫 Contact Me
+
+- 📧 Email: [aleksandrejachvadze00@gmail.com](mailto:aleksandrejachvadze00@gmail.com)
+- 💼 LinkedIn: [aleksandre-jachvadze-b15075326](https://www.linkedin.com/in/aleksandre-jachvadze-b15075326/)
+- 🧠 GitHub: [Aleksandre-jachvadze](https://github.com/Aleksandre-jachvadze)
 
