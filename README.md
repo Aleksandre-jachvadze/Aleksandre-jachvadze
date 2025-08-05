@@ -45,12 +45,7 @@ Personal projects that combine powerful backends with clean, modern frontends.
 ---
 
 ### 📫 Connect with me:
-
-- [LinkedIn](https://linkedin.com/in/aleksandre-jachvadze-b15075326)
-- [GitHub](https://github.com/Aleksandre-jachvadze)
-- [Portfolio](https://aleksandre-portfolio.com)
-
----
+)
 
 ### ⚡ Fun Fact:
 If it can be automated — I’ll probably automate it 😄
