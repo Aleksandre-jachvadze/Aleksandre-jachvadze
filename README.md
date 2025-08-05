@@ -1,3 +1,8 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=004080&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Python+%2F+JavaScript+Enthusiast;Clean+Code+%E2%9C%94%EF%B8%8F+Efficient+Design+%E2%9C%94%EF%B8%8F" alt="Typing SVG" />
+</p>
+
 # 👋 Hi, I'm Aleksandre
 
 🇬🇪 Full Stack Developer 🧑‍💻 from Georgia  
