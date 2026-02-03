@@ -1,59 +1,85 @@
-<!-- Banner -->
+<!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=004080&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Python+%2F+JavaScript+Enthusiast;Clean+Code+%E2%9C%94%EF%B8%8F+Efficient+Design+%E2%9C%94%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,100:00AEEF&height=190&section=header&text=Aleksandre%20Jachvadze&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
-# 👋 Hi, I'm Aleksandre
-
-🇬🇪 Full Stack Developer 🧑‍💻 from Georgia  
-💻 Backend-oriented | 🌐 Python & JavaScript Stack
-
----
-
-### 👨‍💻 About Me
-
-I'm a passionate **Junior Full Stack Developer**, focused on building scalable and efficient web applications.  
-My main expertise lies in **Python-based backend development** with solid experience in modern frontend tools.
-
-I enjoy crafting clean code, solving challenging problems, and turning ideas into real products.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00AEEF&center=true&vCenter=true&width=520&lines=Backend-Oriented+Full+Stack+Developer;Python+%7C+Flask+%7C+FastAPI+%7C+Django;React+%7C+Next.js;Clean+Code+%7C+Scalable+Systems" />
+</p>
 
 ---
 
-### 🚀 Tech Stack
+## 👋 Hi, I'm Aleksandre
 
-**🧠 Backend:**
-- Python (Core)
-- Flask, FastAPI, Django, DRF
+🇬🇪 **Full Stack Developer** from Georgia  
+🧠 **Backend-focused**, product-oriented engineer  
+⚙️ Python & JavaScript ecosystem
+
+---
+
+## 👨‍💻 About Me
+
+I’m a **Full Stack Developer** with a strong focus on **backend architecture and system design**.  
+I build web applications that are not just functional, but **scalable, maintainable, and cleanly structured**.
+
+I enjoy:
+- Designing APIs and backend logic
+- Turning complex ideas into clear systems
+- Writing code that’s easy to read, test, and extend
+
+---
+
+## 🚀 Tech Stack
+
+### 🧠 Backend
+- **Python**
+- Flask, FastAPI, Django, Django REST Framework
 - PostgreSQL, SQLite
-- Docker, Redis
+- Redis, Docker
+- REST APIs, Authentication, Authorization
 
-**🎨 Frontend:**
+### 🎨 Frontend
 - React.js, Next.js
-- JavaScript (ES6+), HTML5, CSS3
-- Tailwind CSS, CSS-in-JS
+- JavaScript (ES6+)
+- HTML5, CSS3
+- Tailwind CSS
 
-**🛠 Tools & Other:**
+### 🛠 Tools
 - Git & GitHub
-- Vite.js, Webpack
-- Figma, VSCode
+- Vite, Webpack
+- VS Code, Figma
+- Linux basics
 
 ---
 
-### 🌱 Currently working on:
-Personal projects that combine powerful backends with clean, modern frontends.
+## 📌 What I Focus On
+- Backend-heavy full stack applications
+- Clean architecture & separation of concerns
+- Performance-aware design
+- Real-world, production-style projects
 
 ---
 
-### 📄 My CV
-
-Want to know more about my background and skills?  
-[📄 View My CV](https://aleksandre-portfolio.com/my_cv.pdf)
+## 🌱 Currently Working On
+Building personal projects that simulate **real startup-level systems**, combining:
+- Robust backends
+- Clean UI
+- Practical business logic
 
 ---
 
-### 📫 Contact Me
+## 📄 CV
+📄 [View My CV](https://aleksandre-portfolio.com/my_cv.pdf)
 
-- 📧 Email: [aleksandrejachvadze00@gmail.com](mailto:aleksandrejachvadze00@gmail.com)
-- 💼 LinkedIn: [aleksandre-jachvadze-b15075326](https://www.linkedin.com/in/aleksandre-jachvadze-b15075326/)
+---
+
+## 📫 Contact Me
+- 📧 Email: **aleksandrejachvadze00@gmail.com**
+- 💼 LinkedIn: [aleksandre-jachvadze](https://www.linkedin.com/in/aleksandre-jachvadze-b15075326/)
 - 🧠 GitHub: [Aleksandre-jachvadze](https://github.com/Aleksandre-jachvadze)
+
+---
+
+<!-- Snake Contribution Animation -->
+![snake animation](https://github.com/Aleksandre-jachvadze/Aleksandre-jachvadze/blob/output/github-contribution-grid-snake.svg)
 
