@@ -1,10 +1,11 @@
-<!-- Animated Header -->
+<!-- Minimal Gradient Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,100:00AEEF&height=190&section=header&text=Aleksandre%20Jachvadze&fontSize=40&fontColor=E6F4FF&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,20&height=140&section=header&text=Aleksandre%20Jachvadze&fontSize=38&fontColor=C9D1D9&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=B6E3FF&center=true&vCenter=true&width=520&lines=Backend-Oriented+Full+Stack+Developer;Python+%7C+Flask+%7C+FastAPI+%7C+Django;React+%7C+Next.js;Clean+Code+%7C+Scalable+Systems" />
+  <strong>Backend-Oriented Full Stack Developer</strong><br/>
+  Python • Flask • FastAPI • Django • React • Next.js
 </p>
 
 ---
@@ -12,20 +13,22 @@
 ## 👋 Hi, I'm Aleksandre
 
 🇬🇪 **Full Stack Developer** from Georgia  
-🧠 **Backend-focused** engineer  
+🧠 Backend-focused engineer  
 ⚙️ Python & JavaScript ecosystem
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m a **Full Stack Developer** with a strong focus on **backend development and system design**.  
-I enjoy building applications that are **scalable, maintainable, and well-structured**, not just visually appealing.
+I’m a **Full Stack Developer** with a strong emphasis on **backend development and system design**.  
+I focus on building applications that are:
 
-What drives me:
-- Clean and readable code
-- Well-designed APIs
-- Turning complex ideas into simple, reliable systems
+- Scalable
+- Maintainable
+- Cleanly structured
+- Close to real production systems
+
+I enjoy working on the logic behind products — APIs, data flow, architecture — and pairing it with clean, modern UI.
 
 ---
 
@@ -36,7 +39,7 @@ What drives me:
 - Flask, FastAPI, Django, Django REST Framework
 - PostgreSQL, SQLite
 - Redis, Docker
-- REST APIs, Authentication & Authorization
+- REST APIs, Auth & Permissions
 
 ### 🎨 Frontend
 - React.js, Next.js
@@ -55,16 +58,23 @@ What drives me:
 ## 📌 What I Focus On
 - Backend-heavy full stack applications
 - Clean architecture & separation of concerns
-- Performance-aware design
-- Real-world, production-style projects
+- Performance-aware systems
+- Real-world project structure
 
 ---
 
 ## 🌱 Currently Working On
-Personal projects that simulate **real startup-level systems**, combining:
-- Robust backends
+Personal projects that mimic **startup / production-level systems**, with:
+- Strong backend foundations
 - Clean and minimal UI
 - Practical business logic
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aleksandre-jachvadze&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
 
 ---
 
@@ -80,6 +90,7 @@ Personal projects that simulate **real startup-level systems**, combining:
 
 ---
 
-<!-- Snake Contribution Animation -->
-![snake animation](https://github.com/Aleksandre-jachvadze/Aleksandre-jachvadze/blob/output/github-contribution-grid-snake.svg)
+<!-- Contribution Snake -->
+![snake animation](https://github.com/Ale)
+
 
