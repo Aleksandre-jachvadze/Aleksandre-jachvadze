@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,50:111111,100:000000&height=260&section=header&text=ALEKSANDRE%20JACHVADZE&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=FULL%20STACK%20DEVELOPER%20%20•%20%20BACKEND%20ENGINEER&descSize=15&descColor=999999&descAlignY=64" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,50:111111,100:000000&height=260&section=header&text=ALEKSANDRE%20JACHVADZE&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=FULL%20STACK%20DEVELOPER%20%20%E2%80%A2%20%20BACKEND%20ENGINEER&descSize=15&descColor=999999&descAlignY=64" width="100%"/>
 
 <br>
 
@@ -31,7 +31,7 @@
 
 ## About
 
-I build **modern web applications and backend systems** with a strong focus on architecture, simplicity and scalability.
+I build **modern web applications, APIs and backend systems** with a strong focus on architecture, simplicity and scalability.
 
 My approach is straightforward:
 
@@ -56,37 +56,118 @@ I care about the details behind the interface — the architecture, APIs, data f
 
 # The Stack
 
-### Backend
+### Backend Engineering
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,flask" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,flask&perline=8" />
 </p>
 
-**Python** · FastAPI · Django · Flask · Django REST Framework
+**Python** · FastAPI · Django · Django REST Framework · Flask · SQLAlchemy · REST APIs · JWT · Authentication · Authorization
 
-### Frontend
+---
+
+### Frontend Engineering
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,vite&perline=8" />
 </p>
 
-React · Next.js · JavaScript · HTML5 · CSS3 · Tailwind CSS
+**React** · Next.js · JavaScript · TypeScript · HTML5 · CSS3 · Tailwind CSS · Vite · Responsive Design
 
-### Data & Infrastructure
+---
+
+### Databases & Data
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,sqlite,redis,docker,linux" />
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,redis&perline=8" />
 </p>
 
-PostgreSQL · SQLite · Redis · Docker · Linux
+**PostgreSQL** · SQLite · MongoDB · Redis · SQLAlchemy · Django ORM · Database Design · Data Modeling · Query Optimization
 
-### Tools
+---
+
+### DevOps & Infrastructure
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vite" />
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github&perline=8" />
 </p>
 
-Git · GitHub · VS Code · Figma · Vite
+**Docker** · Linux · Nginx · Git · GitHub · Containerization · Environment Configuration · Deployment
+
+---
+
+### API & Backend Systems
+
+```text
+API ENGINEERING
+
+REST APIs
+├── Authentication
+├── Authorization
+├── JWT
+├── CRUD
+├── Validation
+├── Error Handling
+├── Pagination
+├── Filtering
+├── Middleware
+└── API Documentation
+```
+
+---
+
+### Architecture
+
+<div align="center">
+
+`Clean Architecture` · `MVC` · `MVT` · `Service Layer` · `Repository Pattern`
+
+`Separation of Concerns` · `Modular Design` · `Reusable Components`
+
+</div>
+
+---
+
+### Python Ecosystem
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,django,flask,fastapi&perline=8" />
+</p>
+
+`Virtual Environments` · `pip` · `AsyncIO` · `Pydantic` · `Uvicorn`
+
+`APScheduler` · `Flask-SQLAlchemy` · `WTForms` · `Django ORM`
+
+---
+
+### Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&perline=8" />
+</p>
+
+**Git** · GitHub · VS Code · Figma · Postman · npm · pip · Terminal
+
+---
+
+### Engineering Overview
+
+<div align="center">
+
+| Area             | Technologies                                   |
+| :--------------- | :--------------------------------------------- |
+| **Languages**    | Python · JavaScript · TypeScript · SQL         |
+| **Backend**      | Django · DRF · FastAPI · Flask                 |
+| **Frontend**     | React · Next.js · Tailwind CSS                 |
+| **Databases**    | PostgreSQL · SQLite · MongoDB                  |
+| **Caching**      | Redis                                          |
+| **ORM**          | SQLAlchemy · Django ORM                        |
+| **DevOps**       | Docker · Linux · Nginx                         |
+| **APIs**         | REST · JWT · CRUD · OpenAPI                    |
+| **Tools**        | Git · GitHub · VS Code · Postman · Figma       |
+| **Architecture** | MVC · MVT · Clean Architecture · Service Layer |
+
+</div>
 
 ---
 
@@ -130,26 +211,26 @@ Git · GitHub · VS Code · Figma · Vite
 
 I'm building projects that explore the intersection of:
 
-**Software × Systems × Intelligence**
+### **Software × Systems × Intelligence**
 
 ```text
-        IDEA
-         │
-         ▼
-   ┌─────────────┐
-   │  ARCHITECT  │
-   └──────┬──────┘
-          │
-     ┌────┴────┐
-     ▼         ▼
-  BACKEND   FRONTEND
-     │         │
-     └────┬────┘
-          ▼
-       PRODUCT
-          │
-          ▼
-        SCALE
+                         IDEA
+                           │
+                           ▼
+                    ┌─────────────┐
+                    │  ARCHITECT  │
+                    └──────┬──────┘
+                           │
+                    ┌──────┴──────┐
+                    ▼             ▼
+               BACKEND        FRONTEND
+                    │             │
+                    └──────┬──────┘
+                           ▼
+                        PRODUCT
+                           │
+                           ▼
+                         SCALE
 ```
 
 I'm particularly interested in:
@@ -160,6 +241,31 @@ I'm particularly interested in:
 * Data-driven products
 * API architecture
 * Real-world startup systems
+* Scalable backend services
+
+---
+
+# Engineering Mindset
+
+> **Good software is not only software that works.
+> Good software is software that remains understandable.**
+
+I focus on:
+
+**Clarity**
+Simple systems are easier to maintain.
+
+**Architecture**
+Good structure makes growth easier.
+
+**Performance**
+Efficiency matters when systems scale.
+
+**Maintainability**
+Code should be understandable long after it was written.
+
+**Product Thinking**
+Technology should solve a real problem.
 
 ---
 
@@ -209,9 +315,9 @@ I'm particularly interested in:
 
 ---
 
-<div align="center">
-
 # Let's build something meaningful.
+
+<div align="center">
 
 <br>
 
@@ -233,14 +339,12 @@ I'm particularly interested in:
 
 *Backend-oriented Full Stack Developer*
 
-Georgia 🇬🇪
-
-</div>
+🇬🇪 Georgia
 
 <br>
-
-<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:333333,100:000000&height=140&section=footer" width="100%"/>
 
 </div>
+
+
