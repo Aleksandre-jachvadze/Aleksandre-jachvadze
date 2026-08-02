@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:151515,100:050505&height=260&section=header&text=ALEKSANDRE%20JACHVADZE&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=43&desc=SOFTWARE%20ENGINEER%20%20%E2%80%A2%20%20BACKEND%20%26%20FULL%20STACK&descSize=15&descColor=8E8E93&descAlignY=63" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,50:111111,100:000000&height=260&section=header&text=ALEKSANDRE%20JACHVADZE&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=FULL%20STACK%20DEVELOPER%20%20%E2%80%A2%20%20BACKEND%20ENGINEER&descSize=15&descColor=999999&descAlignY=64" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=4200&pause=1800&color=8E8E93&center=true&vCenter=true&width=700&lines=Building+quietly.+Engineering+carefully.;Backend+systems+with+clean+architecture.;Turning+ideas+into+products.;Less+noise.+Better+software." />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=19&duration=3500&pause=1200&color=888888&center=true&vCenter=true&width=700&lines=Building+software+with+clarity.;Backend+at+the+core.;Simple+interfaces.+Powerful+systems.;From+idea+to+production." />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Aleksandre-jachvadze&style=flat-square&color=8E8E93&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=Aleksandre-jachvadze&style=flat-square&color=888888&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -21,7 +21,6 @@
 ### Engineered to scale.
 
 **Backend-oriented Full Stack Developer**
-
 🇬🇪 Georgia · Python · JavaScript
 
 </div>
@@ -34,31 +33,22 @@
 
 I build **modern web applications, APIs and backend systems** with a strong focus on architecture, simplicity and scalability.
 
-I believe great software should feel effortless from the outside — even when the system behind it is complex.
+My approach is straightforward:
 
-> **Complexity behind the scenes. Simplicity in the experience.**
+> **Complex systems should feel simple to use.**
 
-My work sits between **engineering and product thinking**.
+I care about the details behind the interface — the architecture, APIs, data flow, performance and maintainability that make a product feel polished.
 
----
+<br>
 
 <div align="center">
 
-### Focus
-
-`Backend Engineering`
-
-### Stack
-
-`Python + JavaScript`
-
-### Architecture
-
-`Clean · Modular · Scalable`
-
-### Mindset
-
-`Product First`
+|                  |                     |
+| ---------------- | ------------------- |
+| **Focus**        | Backend Engineering |
+| **Stack**        | Python + JavaScript |
+| **Architecture** | Clean & Scalable    |
+| **Mindset**      | Product First       |
 
 </div>
 
@@ -66,118 +56,116 @@ My work sits between **engineering and product thinking**.
 
 # The Stack
 
-## Backend
+### Backend Engineering
 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask&perline=8" />
 </p>
 
-<div align="center">
-
-**Python** · **FastAPI** · **Django** · **Django REST Framework** · **Flask**
-
-`SQLAlchemy` · `REST APIs` · `JWT` · `Authentication` · `Authorization`
-
-</div>
+**Python** · FastAPI · Django · Django REST Framework · Flask · SQLAlchemy · REST APIs · JWT · Authentication · Authorization
 
 ---
 
-## Frontend
+### Frontend Engineering
 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,vite&perline=8" />
 </p>
 
-<div align="center">
-
-**React** · **Next.js** · **JavaScript** · **TypeScript**
-
-`HTML5` · `CSS3` · `Tailwind CSS` · `Vite` · `Responsive Design`
-
-</div>
+**React** · Next.js · JavaScript · TypeScript · HTML5 · CSS3 · Tailwind CSS · Vite · Responsive Design
 
 ---
 
-## Databases
+### Databases & Data
 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,redis&perline=8" />
 </p>
 
-<div align="center">
-
-**PostgreSQL** · **SQLite** · **MongoDB** · **Redis**
-
-`SQLAlchemy` · `Django ORM` · `Data Modeling` · `Query Optimization`
-
-</div>
+**PostgreSQL** · SQLite · MongoDB · Redis · SQLAlchemy · Django ORM · Database Design · Data Modeling · Query Optimization
 
 ---
 
-## Infrastructure
+### DevOps & Infrastructure
 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github&perline=8" />
 </p>
 
+**Docker** · Linux · Nginx · Git · GitHub · Containerization · Environment Configuration · Deployment
+
+---
+
+### API & Backend Systems
+
+```text
+API ENGINEERING
+
+REST APIs
+├── Authentication
+├── Authorization
+├── JWT
+├── CRUD
+├── Validation
+├── Error Handling
+├── Pagination
+├── Filtering
+├── Middleware
+└── API Documentation
+```
+
+---
+
+### Architecture
+
 <div align="center">
 
-**Docker** · **Linux** · **Nginx** · **Git** · **GitHub**
+`Clean Architecture` · `MVC` · `MVT` · `Service Layer` · `Repository Pattern`
 
-`Containerization` · `Deployment` · `Environment Configuration`
+`Separation of Concerns` · `Modular Design` · `Reusable Components`
 
 </div>
 
 ---
 
-## Python Ecosystem
+### Python Ecosystem
 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi&perline=8" />
 </p>
 
-<div align="center">
+`Virtual Environments` · `pip` · `AsyncIO` · `Pydantic` · `Uvicorn`
 
-`Virtual Environments` · `pip` · `AsyncIO` · `Pydantic`
-
-`Uvicorn` · `APScheduler` · `Flask-SQLAlchemy` · `WTForms`
-
-</div>
+`APScheduler` · `Flask-SQLAlchemy` · `WTForms` · `Django ORM`
 
 ---
 
-## Development
+### Development Tools
 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&perline=8" />
 </p>
 
-<div align="center">
-
-**Git** · **GitHub** · **VS Code** · **Figma** · **Postman**
-
-`npm` · `pip` · `Terminal` · `API Testing`
-
-</div>
+**Git** · GitHub · VS Code · Figma · Postman · npm · pip · Terminal
 
 ---
 
-# Engineering
+### Engineering Overview
 
 <div align="center">
 
-|                    |                                        |
-| :----------------- | :------------------------------------- |
-| **Languages**      | Python · JavaScript · TypeScript · SQL |
-| **Backend**        | Django · DRF · FastAPI · Flask         |
-| **Frontend**       | React · Next.js · Tailwind CSS         |
-| **Databases**      | PostgreSQL · SQLite · MongoDB          |
-| **Caching**        | Redis                                  |
-| **ORM**            | SQLAlchemy · Django ORM                |
-| **Infrastructure** | Docker · Linux · Nginx                 |
-| **APIs**           | REST · JWT · CRUD · OpenAPI            |
-| **Architecture**   | MVC · MVT · Clean Architecture         |
-| **Tools**          | Git · GitHub · VS Code · Postman       |
+| Area             | Technologies                                   |
+| :--------------- | :--------------------------------------------- |
+| **Languages**    | Python · JavaScript · TypeScript · SQL         |
+| **Backend**      | Django · DRF · FastAPI · Flask                 |
+| **Frontend**     | React · Next.js · Tailwind CSS                 |
+| **Databases**    | PostgreSQL · SQLite · MongoDB                  |
+| **Caching**      | Redis                                          |
+| **ORM**          | SQLAlchemy · Django ORM                        |
+| **DevOps**       | Docker · Linux · Nginx                         |
+| **APIs**         | REST · JWT · CRUD · OpenAPI                    |
+| **Tools**        | Git · GitHub · VS Code · Postman · Figma       |
+| **Architecture** | MVC · MVT · Clean Architecture · Service Layer |
 
 </div>
 
@@ -187,113 +175,97 @@ My work sits between **engineering and product thinking**.
 
 <div align="center">
 
-### 01
+### 01 — Understand
 
-## Understand
-
-*Start with the problem, not the technology.*
+**The problem comes first.**
 
 ↓
 
-### 02
+### 02 — Architect
 
-## Architect
-
-*Design the simplest system that can solve it.*
+**Design the simplest system that can solve it.**
 
 ↓
 
-### 03
+### 03 — Engineer
 
-## Engineer
-
-*Write clean, maintainable and reliable software.*
+**Build clean, maintainable and testable software.**
 
 ↓
 
-### 04
+### 04 — Refine
 
-## Refine
-
-*Remove unnecessary complexity.*
+**Remove complexity. Improve performance.**
 
 ↓
 
-### 05
+### 05 — Ship
 
-## Ship
-
-*Turn the system into a real product.*
+**Turn the system into a real product.**
 
 </div>
 
 ---
 
-# Currently Building
+# Currently
 
-<div align="center">
+I'm building projects that explore the intersection of:
 
-## Software × Systems × Intelligence
-
-<br>
+### **Software × Systems × Intelligence**
 
 ```text
                          IDEA
-                           ↓
+                           │
+                           ▼
                     ┌─────────────┐
                     │  ARCHITECT  │
                     └──────┬──────┘
-                           ↓
-                 ┌─────────┴─────────┐
-                 ↓                   ↓
-             BACKEND             FRONTEND
-                 ↓                   ↓
-                 └─────────┬─────────┘
-                           ↓
+                           │
+                    ┌──────┴──────┐
+                    ▼             ▼
+               BACKEND        FRONTEND
+                    │             │
+                    └──────┬──────┘
+                           ▼
                         PRODUCT
-                           ↓
+                           │
+                           ▼
                          SCALE
 ```
 
-</div>
-
-### Exploring
+I'm particularly interested in:
 
 * Intelligent systems
 * Backend-heavy applications
 * Automation
 * Data-driven products
 * API architecture
-* Scalable services
-* Startup-style systems
+* Real-world startup systems
+* Scalable backend services
 
 ---
 
 # Engineering Mindset
 
-<div align="center">
+> **Good software is not only software that works.
+> Good software is software that remains understandable.**
 
-### Clarity
+I focus on:
 
-Simple systems are easier to understand.
+**Clarity**
+Simple systems are easier to maintain.
 
-### Architecture
-
+**Architecture**
 Good structure makes growth easier.
 
-### Performance
+**Performance**
+Efficiency matters when systems scale.
 
-Efficient systems scale better.
+**Maintainability**
+Code should be understandable long after it was written.
 
-### Maintainability
-
-Code should make sense months later.
-
-### Product
-
+**Product Thinking**
 Technology should solve a real problem.
-
-</div>
 
 ---
 
@@ -325,8 +297,6 @@ Technology should solve a real problem.
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aleksandre-jachvadze&repo=Textshare&theme=default&hide_border=true"/>
 </a>
 
-  
-
 <a href="https://github.com/Aleksandre-jachvadze">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aleksandre-jachvadze&repo=Blog-API&theme=default&hide_border=true"/>
 </a>
@@ -345,9 +315,9 @@ Technology should solve a real problem.
 
 ---
 
-<div align="center">
-
 # Let's build something meaningful.
+
+<div align="center">
 
 <br>
 
@@ -371,8 +341,8 @@ Technology should solve a real problem.
 
 🇬🇪 Georgia
 
-<br><br>
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1A1A1A,100:000000&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:333333,100:000000&height=140&section=footer" width="100%"/>
 
 </div>
