@@ -1,281 +1,328 @@
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--
+████████████████████████████████████████████████████████████████████████
+                    SYSTEM // ALEKSANDRE.JACHVADZE
+                         CYBER PROFILE v2.0
+████████████████████████████████████████████████████████████████████████
+-->
 
-<!--                         PREMIUM GITHUB README                         -->
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0A2540,70:0077B6,100:00AEEF&height=230&section=header&text=ALEKSANDRE%20JACHVADZE&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=BACKEND-ORIENTED%20FULL%20STACK%20DEVELOPER&descSize=16&descAlignY=58&descColor=BAE6FD" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1000&color=00AEEF&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Systems;Python+%7C+FastAPI+%7C+Django+%7C+Flask;React+%7C+Next.js+%7C+TypeScript;Clean+Architecture+%7C+REST+APIs;Turning+Complex+Ideas+Into+Real+Products" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Aleksandre-jachvadze">
-    <img src="https://komarev.com/ghpvc/?username=Aleksandre-jachvadze&label=PROFILE%20VIEWS&color=00AEEF&style=for-the-badge" />
-  </a>
-  <img src="https://img.shields.io/github/followers/Aleksandre-jachvadze?label=FOLLOWERS&style=for-the-badge&color=0A2540&labelColor=020617" />
-</p>
-
----
-
-# ⚡ Aleksandre Jachvadze
-
-> **Backend-oriented Full Stack Developer** building scalable systems, APIs and real-world products.
-
-🇬🇪 Based in **Georgia**
-🧠 Backend-focused engineer
-🐍 Python enthusiast
-⚙️ Full Stack Developer
-🚀 Building startup-style projects
-
----
-
-## 🧬 About Me
-
-I'm a **Full Stack Developer** with a strong focus on **backend engineering, architecture and system design**.
-
-I enjoy taking an idea from:
+<div align="center">
 
 ```text
-💡 Idea
-   ↓
-🧠 Architecture
-   ↓
-⚙️ Backend
-   ↓
-🔌 API
-   ↓
-🎨 Frontend
-   ↓
-🚀 Product
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║   █████╗ ██╗     ███████╗██╗  ██╗ █████╗ ███╗   ██╗██████╗ ██████╗  ║
+║  ██╔══██╗██║     ██╔════╝██║ ██╔╝██╔══██╗████╗  ██║██╔══██╗██╔══██╗ ║
+║  ███████║██║     █████╗  █████╔╝ ███████║██╔██╗ ██║██║  ██║██████╔╝ ║
+║  ██╔══██║██║     ██╔══╝  ██╔═██╗ ██╔══██║██║╚██╗██║██║  ██║██╔═══╝  ║
+║  ██║  ██║███████╗███████╗██║  ██╗██║  ██║██║ ╚████║██████╔╝██║      ║
+║  ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝      ║
+║                                                                      ║
+║                  [ BACKEND // FULL STACK // ENGINEER ]              ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-My main goal is simple:
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1800&pause=500&color=00FF9C&center=true&vCenter=true&width=750&lines=%3E+INITIALIZING+SYSTEM...;%3E+ACCESS+GRANTED+%2F%2F+ALEKSANDRE;%3E+LOADING+BACKEND+CORE...;%3E+PYTHON+SYSTEMS+ONLINE;%3E+API+ENGINE+ONLINE;%3E+FULL+STACK+MODE+ACTIVE;%3E+READY+TO+BUILD." />
 
-**Build software that is clean, scalable, maintainable and actually useful.**
+<br>
 
-### What I enjoy most
+<img src="https://komarev.com/ghpvc/?username=Aleksandre-jachvadze&style=flat-square&color=00ff9c&label=SYSTEM+VISITS" />
 
-* 🏗️ Designing backend architectures
-* 🔌 Building REST APIs
-* 🧠 Solving complex logic problems
-* 🗄️ Working with databases
-* 🔐 Authentication & authorization
-* ⚡ Performance-aware systems
-* 🧹 Clean and maintainable code
-* 🚀 Turning concepts into working products
+</div>
 
 ---
-
-# 🛠️ Tech Arsenal
-
-### 🧠 Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask" />
-</p>
-
-`Python` · `FastAPI` · `Django` · `Flask` · `Django REST Framework`
-
-### 🎨 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind" />
-</p>
-
-`React` · `Next.js` · `JavaScript` · `HTML5` · `CSS3` · `Tailwind CSS`
-
-### 🗄️ Database & Infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,sqlite,redis,docker" />
-</p>
-
-`PostgreSQL` · `SQLite` · `Redis` · `Docker`
-
-### 🔧 Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,vite" />
-</p>
-
-`Git` · `GitHub` · `VS Code` · `Linux` · `Figma` · `Vite`
-
----
-
-# 🚀 What I Build
-
-```yaml
-backend:
-  - REST APIs
-  - Authentication Systems
-  - Business Logic
-  - Database Architecture
-  - Background Tasks
-  - Scalable Services
-
-frontend:
-  - React Applications
-  - Next.js Applications
-  - Responsive Interfaces
-  - Dashboard Systems
-
-engineering:
-  - Clean Architecture
-  - Separation of Concerns
-  - Reusable Components
-  - Performance Optimization
-```
-
----
-
-# 🧠 Engineering Mindset
 
 ```text
-Complexity
-    │
-    ▼
-Understand
-    │
-    ▼
-Design
-    │
-    ▼
-Simplify
-    │
-    ▼
-Implement
-    │
-    ▼
-Test
-    │
-    ▼
-Improve
+┌──[ ROOT@ALEKSANDRE ]───────────────────────────────────────────────┐
+│                                                                    │
+│  STATUS       : ONLINE                                             │
+│  ROLE         : BACKEND-ORIENTED FULL STACK DEVELOPER              │
+│  LOCATION     : GEORGIA 🇬🇪                                       │
+│  PRIMARY      : PYTHON                                             │
+│  SECONDARY    : JAVASCRIPT                                         │
+│  SPECIALTY    : SYSTEM DESIGN / APIs / ARCHITECTURE                │
+│                                                                    │
+│  [████████████████████████████████████████] 100%                   │
+│                                                                    │
+└────────────────────────────────────────────────────────────────────┘
 ```
 
-I don't just want code that **works**.
+# `01 // IDENTITY`
 
-I want code that:
+```bash
+$ whoami
 
-> **makes sense six months later.**
+Aleksandre Jachvadze
 
----
+$ cat /etc/role
 
-# 🔥 Current Focus
+Backend-Oriented Full Stack Developer
 
-### Building real-world systems
+$ cat /etc/mission
 
-I'm currently focusing on projects that combine:
+Build systems.
+Solve problems.
+Turn complex ideas into simple software.
+```
 
-**Robust Backend + Clean UI + Real Business Logic**
+I'm a **Full Stack Developer** focused heavily on backend engineering,
+architecture and system design.
 
-Some areas I'm exploring:
+I like building things that feel less like demos and more like **real systems**.
 
-* 🤖 Intelligent systems
-* 📊 Data-driven applications
-* 💼 Startup-style products
-* 🔌 API-driven architectures
-* ⚙️ Automation systems
-* 🧠 Decision & simulation engines
+My favorite part of development is taking:
 
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aleksandre-jachvadze&show_icons=true&hide_border=true&bg_color=020617&title_color=00AEEF&icon_color=00AEEF&text_color=CBD5E1&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksandre-jachvadze&layout=compact&hide_border=true&bg_color=020617&title_color=00AEEF&text_color=CBD5E1" height="180"/>
-</p>
+`IDEA → ARCHITECTURE → LOGIC → API → PRODUCT`
 
 ---
 
-# 📈 Contribution Activity
+# `02 // CORE SYSTEM`
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aleksandre-jachvadze&bg_color=020617&color=00AEEF&line=00AEEF&point=ffffff&area=true&hide_border=true" width="100%"/>
-</p>
+```text
+                    ┌─────────────────────┐
+                    │      APPLICATION    │
+                    └──────────┬──────────┘
+                               │
+                    ┌──────────▼──────────┐
+                    │        API          │
+                    │   REST / SERVICES   │
+                    └──────────┬──────────┘
+                               │
+              ┌────────────────┼────────────────┐
+              │                │                │
+       ┌──────▼──────┐ ┌──────▼──────┐ ┌──────▼──────┐
+       │   BUSINESS  │ │    DATA     │ │   SECURITY  │
+       │    LOGIC    │ │    LAYER    │ │    LAYER    │
+       └──────┬──────┘ └──────┬──────┘ └─────────────┘
+              │                │
+       ┌──────▼────────────────▼──────┐
+       │          DATABASE            │
+       └──────────────────────────────┘
+```
+
+### `BACKEND`
+
+```text
+Python
+├── FastAPI
+├── Django
+├── Django REST Framework
+└── Flask
+```
+
+### `FRONTEND`
+
+```text
+JavaScript
+├── React
+├── Next.js
+├── Tailwind CSS
+├── HTML5
+└── CSS3
+```
+
+### `INFRASTRUCTURE`
+
+```text
+Infrastructure
+├── PostgreSQL
+├── SQLite
+├── Redis
+├── Docker
+└── Linux
+```
+
+### `TOOLS`
+
+```text
+Toolchain
+├── Git
+├── GitHub
+├── VS Code
+├── Vite
+└── Figma
+```
 
 ---
 
-# 🐍 Contribution Snake
+# `03 // SKILL MATRIX`
 
-<p align="center">
-  <img src="https://github.com/Aleksandre-jachvadze/Aleksandre-jachvadze/blob/output/github-contribution-grid-snake.svg" width="100%"/>
-</p>
+```text
+PYTHON          ████████████████████  CORE
+FASTAPI         ███████████████████░  HIGH
+DJANGO          ███████████████████░  HIGH
+FLASK           ██████████████████░░  HIGH
+
+REST APIs       ████████████████████  CORE
+DATABASES       ██████████████████░░  HIGH
+ARCHITECTURE    ██████████████████░░  HIGH
+AUTHENTICATION  █████████████████░░░  HIGH
+
+REACT           ████████████████░░░░  ACTIVE
+NEXT.JS         ███████████████░░░░░  ACTIVE
+JAVASCRIPT      █████████████████░░░  HIGH
+
+DOCKER          ██████████████░░░░░░  ACTIVE
+REDIS           █████████████░░░░░░░  ACTIVE
+LINUX           ████████████░░░░░░░░  BASICS
+```
 
 ---
 
-# 📂 Featured Projects
+# `04 // CURRENTLY_EXECUTING`
 
-<p align="center">
+```bash
+┌──[~/projects] 
+└─$ ./build_future.sh
 
-<a href="https://github.com/Aleksandre-jachvadze">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aleksandre-jachvadze&repo=Textshare&theme=transparent&hide_border=true&title_color=00AEEF&icon_color=00AEEF"/>
+[✓] Designing backend architectures
+[✓] Building REST APIs
+[✓] Working with databases
+[✓] Creating full-stack systems
+[✓] Exploring intelligent systems
+[✓] Building startup-style projects
+[>] Improving system architecture
+[>] Shipping better products
+
+PROCESS STATUS: RUNNING...
+```
+
+---
+
+# `05 // ENGINEERING_PROTOCOL`
+
+```text
+┌────────────────────────────────────────────────────┐
+│                                                    │
+│   THINK                                            │
+│     ↓                                              │
+│   UNDERSTAND                                       │
+│     ↓                                              │
+│   ARCHITECT                                        │
+│     ↓                                              │
+│   BUILD                                            │
+│     ↓                                              │
+│   TEST                                             │
+│     ↓                                              │
+│   OPTIMIZE                                         │
+│     ↓                                              │
+│   SHIP                                             │
+│                                                    │
+└────────────────────────────────────────────────────┘
+```
+
+> **Good code isn't only code that works.
+> Good code is code that remains understandable.**
+
+---
+
+# `06 // PROJECT LAB`
+
+```text
+╔════════════════════════════════════════════════════════════╗
+║                    ACTIVE LABORATORY                       ║
+╠════════════════════════════════════════════════════════════╣
+║                                                            ║
+║  [01] BACKEND SYSTEMS                                      ║
+║      APIs / Authentication / Business Logic                ║
+║                                                            ║
+║  [02] INTELLIGENT SYSTEMS                                  ║
+║      Decision Engines / Simulations / Automation            ║
+║                                                            ║
+║  [03] DATA SYSTEMS                                         ║
+║      Databases / Analytics / Processing                    ║
+║                                                            ║
+║  [04] PRODUCT SYSTEMS                                      ║
+║      Real-world startup-style applications                 ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
+```
+
+---
+
+# `07 // GITHUB TELEMETRY`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Aleksandre-jachvadze&show_icons=true&hide_border=true&bg_color=00000000&title_color=00FF9C&icon_color=00FF9C&text_color=9CA3AF&rank_icon=github" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksandre-jachvadze&layout=compact&hide_border=true&bg_color=00000000&title_color=00FF9C&text_color=9CA3AF" height="180"/>
+
+</div>
+
+---
+
+# `08 // ACTIVITY_MONITOR`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aleksandre-jachvadze&bg_color=00000000&color=00FF9C&line=00FF9C&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+# `09 // CONTRIBUTION_PROTOCOL`
+
+<div align="center">
+
+<img src="https://github.com/Aleksandre-jachvadze/Aleksandre-jachvadze/blob/output/github-contribution-grid-snake.svg" width="100%"/>
+
+</div>
+
+---
+
+# `10 // ACCESS POINTS`
+
+```text
+┌──[ CONTACT ]──────────────────────────────────────────────┐
+│                                                           │
+│  EMAIL       →  aleksandrejachvadze00@gmail.com          │
+│  LINKEDIN    →  aleksandre-jachvadze                      │
+│  GITHUB      →  Aleksandre-jachvadze                      │
+│  CV          →  /my_cv.pdf                                │
+│                                                           │
+└───────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+<a href="mailto:aleksandrejachvadze00@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-00FF9C?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 
 <a href="https://github.com/Aleksandre-jachvadze">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aleksandre-jachvadze&repo=Blog-API&theme=transparent&hide_border=true&title_color=00AEEF&icon_color=00AEEF"/>
-</a>
-
-</p>
-
----
-
-# 🎯 Developer Philosophy
-
-> **Think deeply. Build simply. Ship consistently.**
-
-```text
-Good software
-      ↓
-Clear architecture
-      +
-Readable code
-      +
-Useful product
-      +
-Continuous improvement
-```
-
----
-
-# 📄 CV
-
-<p align="center">
-  <a href="https://aleksandre-portfolio.com/my_cv.pdf">
-    <img src="https://img.shields.io/badge/VIEW_MY_CV-00AEEF?style=for-the-badge&logo=readthedocs&logoColor=white"/>
-  </a>
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/Aleksandre-jachvadze">
-  <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-0B0F0E?style=for-the-badge&logo=github&logoColor=00FF9C"/>
 </a>
 
 <a href="https://www.linkedin.com/in/aleksandre-jachvadze-b15075326/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A2540?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0B0F0E?style=for-the-badge&logo=linkedin&logoColor=00FF9C"/>
 </a>
 
-<a href="mailto:aleksandrejachvadze00@gmail.com">
-  <img src="https://img.shields.io/badge/Email-00AEEF?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://aleksandre-portfolio.com/my_cv.pdf">
+<img src="https://img.shields.io/badge/ACCESS_CV-00FF9C?style=for-the-badge&logo=readthedocs&logoColor=black"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00AEEF,50:0077B6,100:020617&height=120&section=footer" width="100%"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <b>⚡ Building systems. Solving problems. Shipping ideas.</b>
-</p>
+```text
+> CONNECTION ESTABLISHED
+> USER: ALEKSANDRE
+> ACCESS: DEVELOPER
+> SYSTEM: OPERATIONAL
+> STATUS: BUILDING...
+
+████████████████████████████████████████████████████████████████
+
+             "BUILD SYSTEMS. BREAK COMPLEXITY. SHIP."
+
+████████████████████████████████████████████████████████████████
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,50:003B2F,100:000000&height=130&section=footer" width="100%"/>
+
+</div>
